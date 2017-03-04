@@ -18,11 +18,14 @@ docker-compose run web python manage.py startapp app
 ##Los usuarios se crean utilizando el mismo comando descrito en la documentación de Django.
 docker-compose run web python manage.py createsuperuser
 
+##Para migrar las clases a la base de datos
+docker-compose run web python manage.py migrate
+
 ## Para ver los logs de la base de datos:
-docker-compose log db.
+docker-compose logs db.
 
 ## Para ver los logs del proyecto:
-docker-compose log webapp
+docker-compose logs webapp
 
 ###Buenas Prácticas
 
