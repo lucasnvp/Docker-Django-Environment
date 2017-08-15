@@ -19,6 +19,7 @@
 `docker-compose run web python manage.py createsuperuser`
 
 ## Para migrar las clases a la base de datos
+`docker-compose run web python manage.py makemigrations`
 `docker-compose run web python manage.py migrate`
 
 ## Para borrar una tabla de la base de datos
