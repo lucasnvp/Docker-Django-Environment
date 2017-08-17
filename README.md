@@ -1,3 +1,5 @@
+[![Dependency Status](https://www.versioneye.com/user/projects/5995c17d6725bd13553b712e/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/5995c17d6725bd13553b712e)
+
 # Django-environments
 
 ## Para crear el proyecto en Django:
