@@ -1,4 +1,6 @@
 [![Dependency Status](https://www.versioneye.com/user/projects/5995c17d6725bd13553b712e/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/5995c17d6725bd13553b712e)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/585632777f174f84b4f8808b0ee04868)](https://www.codacy.com/app/lucasnvp/Docker-Django-Environment?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lucasnvp/Docker-Django-Environment&amp;utm_campaign=Badge_Grade)
+[![Coverage Status](https://coveralls.io/repos/github/lucasnvp/Docker-Django-Environment/badge.svg?branch=master)](https://coveralls.io/github/lucasnvp/Docker-Django-Environment?branch=master)
 
 # Django-environments
 
